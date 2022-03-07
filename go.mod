@@ -1,0 +1,3 @@
+module JSON_ROUTING_EMBEDDING
+
+go 1.17
